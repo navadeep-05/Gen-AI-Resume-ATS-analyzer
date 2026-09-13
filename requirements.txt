@@ -1,0 +1,13 @@
+sentence-transformers
+pdfplumber
+pytesseract
+pdf2image
+trafilatura
+beautifulsoup4
+requests
+groq
+fastapi
+uvicorn
+jinja2
+python-multipart
+python-dotenv
