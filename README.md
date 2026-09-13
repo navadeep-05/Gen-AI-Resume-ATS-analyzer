@@ -70,7 +70,7 @@ resume-analyzer/
 https://gen-ai-resume-ats-analyzer.onrender.com/
 
 
-You can check working with the website to find the ATS of your resume how well it matches the job openings you provide to it.
+You can check working with the website to find the ATS of your resume how well it matches the job description you provide to it.
 
 ---
 
