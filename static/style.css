@@ -172,14 +172,13 @@ header h1 {
 }
 
 header p {
-  color: #fff;
+  color: #ffffff;
   font-size: 1.1rem;
   font-weight: 600;
   text-shadow: 0 0 5px rgba(200,200,200,0.5);
   max-width: 700px;
   margin: 0 auto;
 }
-
 /* Layout Grid */
 .main-grid {
   display: grid;
